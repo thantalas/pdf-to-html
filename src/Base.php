@@ -6,7 +6,7 @@
  * Time: 13:00
  */
 
-namespace TonchikTm\PdfToHtml;
+namespace Thantalas\PdfToHtml;
 
 /**
  * This is base class with common properties and methods.
